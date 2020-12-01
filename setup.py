@@ -28,7 +28,7 @@ install_requires = [
     'Django==2.2.6',
     'django-argonauts==1.2.0',
     'django-debug-toolbar==2.0',
-    'gunicorn==19.6.0',
+    'gunicorn==19.9.0',
     'psycopg2==2.8.6',
     'pycparser==2.19',
     'python-u2flib-server==5.0.0',
