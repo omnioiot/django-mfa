@@ -27,7 +27,7 @@ install_requires = [
     'dj-database-url==0.4.1',
     'Django==2.2.6',
     'django-argonauts==1.2.0',
-    'django-debug-toolbar==1.11',
+    'django-debug-toolbar==2.0',
     'gunicorn==19.6.0',
     'psycopg2==2.8.6',
     'pycparser==2.19',
